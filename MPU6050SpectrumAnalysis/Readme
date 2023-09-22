@@ -1,0 +1,7 @@
+Here is a program for Arduino Nano, which
+1) uses the MPU6050 accelerometer/gyroscope sensor to determine the angles of deviation from the horizon and acceleration in the normal coordinate system,
+2) based on the acceleration in the normal coordinate system , builds a spectrum of accelerations and displacements.
+
+Здесь представлена программа для Arduino Nano, которая
+1) с помощью датчика акселерометра/гироскопа MPU6050 определяет углы отклонения от горизонта и ускорения в нормальной системе координат,
+2) на основании ускорения в нормальной системе координат строит спектр ускорений и перемещений.
