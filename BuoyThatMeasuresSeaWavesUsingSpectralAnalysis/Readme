@@ -1,3 +1,12 @@
+Here are two programs for Arduino Nano:
+- MPU2SpectrAnalisT - transmitter
+1) using the accelerometer/gyroscope sensor MPU6050 determines the angles of deviation from the horizon and acceleration in the normal coordinate system,
+2) based on acceleration in the normal coordinate system builds a spectrum of accelerations and displacements,
+3) using radio NRF24L01 transmits data to the receiver.
+- MPU2SpectrAnalisR receiver
+1) using the radio NRF24L01 receives data from the transmitter,
+2) displays the range of movements on the 3.5" TFT LCD display.
+
 Здесь представлены две программы для Arduino Nano:
 - MPU2SpectrAnalisT - передатчик
   1) с помощью датчика акселерометра/гироскопа MPU6050 определяет углы отклонения от горизонта и ускорения в нормальной системе координат,
