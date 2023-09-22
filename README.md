@@ -1,4 +1,4 @@
-# buoy-measuring-sea-waves
+# buoy-that-measures-sea-waves-using-spectral-analysis
 Designing a buoy that measures sea waves using spectral analysis  
 Проектирование буя, измеряющего морское волнение с помощью спектрального анализа
 
