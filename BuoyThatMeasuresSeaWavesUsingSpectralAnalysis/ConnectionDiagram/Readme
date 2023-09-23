@@ -1,7 +1,7 @@
 Here are the wiring diagrams for arduino:
-- accelerometer/gyroscope MPU6050,
-- radio NRF24L01.
+- accelerometer/gyroscope MPU6050 (VCC->5V, GND->GND, SCL->A5, SDA->A4),
+- radio NRF24L01 (VCC->5V, GND->GND, CE->D9, CSN->D10, SCK->D13, MO->D11, MI->D12).
 
 Здесь представлены схемы подключения к ардуино:
-- акселерометра/гироскопа MPU6050,
-- радио NRF24L01.
+- акселерометра/гироскопа MPU6050 (VCC->5V, GND->GND, SCL->A5, SDA->A4),
+- радио NRF24L01 (VCC->5V, GND->GND, CE->D9, CSN->D10, SCK->D13, MO->D11, MI->D12).
